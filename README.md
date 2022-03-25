@@ -13,7 +13,7 @@ Turning ideas into reality is amazing, and my way to do this, is acting as a Mob
 ### 🤝 Hey, feel free to text me, let's connect!
 <a href="https://www.linkedin.com/in/thierry-oliveira/"><img align="left" src="https://raw.githubusercontent.com/thierryoliveira/thierryoliveira/main/images/linkedin.svg" alt="Thierry Oliveira | LinkedIn" width="21px"/></a>  
 
-### 🏢️ I'm currently working at [Compass.uol](https://compass.uol/) 🧡️
+<br/>### 🏢️ I'm currently working at [Compass.uol](https://compass.uol/) 🧡️
 
 ## ⚡ I'm learning about
 
@@ -27,8 +27,3 @@ Turning ideas into reality is amazing, and my way to do this, is acting as a Mob
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-## 📈 GitHub Stats
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=thierryoliveira)](https://github.com/thierryoliveira)
-
