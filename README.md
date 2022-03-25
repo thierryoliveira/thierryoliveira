@@ -11,7 +11,7 @@ I'm a Mobile Developer 📱️, working specially with Flutter! ✨
 Turning ideas into reality is amazing, and my way to do this, is acting as a Mobile Developer using Flutter, always looking for the best version of my code, keeping the concern with code organization and performance.
 
 ### 🤝 Hey, feel free to text me, let's connect!
-<a href="https://www.linkedin.com/in/thierry-oliveira/"><img align="left" src="https://raw.githubusercontent.com/thierryoliveira/thierryoliveira/main/images/linkedin.svg" alt="Thierry Oliveira | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/thierry-oliveira/"><img align="left" src="https://raw.githubusercontent.com/thierryoliveira/thierryoliveira/main/images/linkedin.svg" alt="Thierry Oliveira | LinkedIn" width="21px"/></a>  
 
 ### 🏢️ I'm currently working at [Compass.uol](https://compass.uol/) 🧡️
 
