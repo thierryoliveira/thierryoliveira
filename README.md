@@ -13,7 +13,8 @@ Turning ideas into reality is amazing, and my way to do this, is acting as a Mob
 ### 🤝 Hey, feel free to text me, let's connect!
 <a href="https://www.linkedin.com/in/thierry-oliveira/"><img align="left" src="https://raw.githubusercontent.com/thierryoliveira/thierryoliveira/main/images/linkedin.svg" alt="Thierry Oliveira | LinkedIn" width="21px"/></a>  
 
-<br/>### 🏢️ I'm currently working at [Compass.uol](https://compass.uol/) 🧡️
+<br/>
+### 🏢️ I'm currently working at [Compass.uol](https://compass.uol/) 🧡️
 
 ## ⚡ I'm learning about
 
