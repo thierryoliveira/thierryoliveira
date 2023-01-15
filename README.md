@@ -15,7 +15,13 @@ Turning ideas into reality is amazing, and my way to do this, is acting as a Mob
 <br/>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-### 🏢️ I'm currently working at [Compass.uol](https://compass.uol/) 🧡️
+### 🏢️ I'm currently working at [Plugg Technologies](https://plugg.tech/) 💙  
+
+## 🎯 Known matters
+### Flutter
+ 1. State management using BLOC or GetX
+ 2. Dependency Injection/service location
+ 3. Some good practices about performance
 
 ## ⚡ I'm learning about
 
@@ -23,6 +29,7 @@ Turning ideas into reality is amazing, and my way to do this, is acting as a Mob
 - Design Patterns
 - SOLID
 - Unit Tests following TDD
+- Entity Framework for .NET development
 
 ## 💥️ My strongest skills
 
