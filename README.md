@@ -19,16 +19,17 @@ Turning ideas into reality is amazing, and my way to do this, is acting as a Mob
 
 ## 🎯 Known matters
 ### Flutter
- 1. State management using BLOC or GetX
+ 1. State management using BLoC or GetX
  2. Dependency Injection/service location
  3. Some good practices about performance
+ 4. Clean Architecture principles
+ 5. SOLID
+ 6. Unit Tests
 
 ## ⚡ I'm learning about
 
-- Clean architecture
 - Design Patterns
-- SOLID
-- Unit Tests following TDD
+- Flutter animations
 - Entity Framework for .NET development
 
 ## 💥️ My strongest skills
